@@ -235,7 +235,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c9e29eb670ac71e4aaa0c9f9c469e11e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  blueTile: {fileID: 6047415880300604950, guid: 1645532b179653a4892535424ea72a22, type: 3}
+  blueTile: {fileID: 4257966862272216821, guid: e0e72c67dfd6dd54395880da438c9262, type: 3}
 --- !u!4 &1665693054
 Transform:
   m_ObjectHideFlags: 0
